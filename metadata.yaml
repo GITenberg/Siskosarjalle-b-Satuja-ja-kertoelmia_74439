@@ -1,0 +1,25 @@
+_repo: Siskosarjalle-b-Satuja-ja-kertoelmia_74439
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hjelt, Vera
+    gutenberg_agent_id: '57505'
+    url: http://www.gutenberg.org/2009/agents/57505
+description: ''
+gutenberg_issued: '2024-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74439'
+language: fi
+pgterms:marc905: 20240908230815hjelt
+pgterms:marc906: '1894'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bOtava, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Siskosarjalle : $b Satuja ja kertoelmia'
+url: http://www.gutenberg.org/ebooks/74439
