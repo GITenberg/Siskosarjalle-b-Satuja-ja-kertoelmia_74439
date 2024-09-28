@@ -1,11 +1,16 @@
 _repo: Siskosarjalle-b-Satuja-ja-kertoelmia_74439
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hjelt, Vera
     gutenberg_agent_id: '57505'
     url: http://www.gutenberg.org/2009/agents/57505
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74439#Siskosarjalle-b-Satuja-ja-kertoelmia
 gutenberg_issued: '2024-09-18'
 gutenberg_type: Text
 identifiers:
